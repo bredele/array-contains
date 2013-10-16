@@ -9,7 +9,13 @@
 
     $ component install leafs/array-contains
 
-## API
+## Usage
+
+```js
+var contains = require('contains');
+contains(['olivier', 'bruno', 'amy'],'amy');
+// true
+```
 
 
 
