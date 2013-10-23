@@ -1,3 +1,4 @@
+var index = require('indexof');
 
 /**
  * Return true if the value is contained
@@ -10,5 +11,5 @@
  */
 
 module.exports = function(arr, val) {
-	return !!~arr.indexOf(val);
+	return !!~index(arr, val);
 };

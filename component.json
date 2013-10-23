@@ -4,7 +4,9 @@
   "description": "Return true if contains value",
   "version": "0.0.1",
   "keywords": [],
-  "dependencies": {},
+  "dependencies": {
+    "component/indexof" : "*"
+  },
   "development": {},
   "license": "MIT",
   "main": "index.js",
