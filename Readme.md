@@ -1,4 +1,3 @@
-
 # array-contains
 
   Return true if contains value
@@ -7,7 +6,7 @@
 
   Install with [component(1)](http://component.io):
 
-    $ component install leafs/array-contains
+    $ component install bredele/array-contains
 
 ## Usage
 
