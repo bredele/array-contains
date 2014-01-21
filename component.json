@@ -1,6 +1,6 @@
 {
   "name": "contains",
-  "repo": "leafs/array-contains",
+  "repo": "bredele/array-contains",
   "description": "Return true if contains value",
   "version": "0.0.1",
   "keywords": [],
